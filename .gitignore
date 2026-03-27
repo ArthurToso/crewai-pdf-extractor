@@ -208,3 +208,5 @@ __marimo__/
 
 #Ignorar PDF's gerados pelo codigo
 relatorios/*.pdf
+
+auxiliar.py
